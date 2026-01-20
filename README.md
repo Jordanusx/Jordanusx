@@ -4,7 +4,7 @@
 Currently taking CSC-134 and getting ready to learn C++!
 
 ## My Foo (special interest) 🎯
-I'm really passionate about anything to do with racing, for example, I really like Formula 1. I'm also passionate about mixed martial arts. I took classes for 8 years. 
+I'm really passionate about anything to do with racing; for example, I really like Formula 1. I'm also passionate about mixed martial arts. I took classes for 8 years. 
 ## Currently Learning
 - C++
 
