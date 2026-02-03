@@ -6,8 +6,17 @@ Celik Jordanus
 */
 
 
-#include <stdio.h>
+#include <iostream>
+#include <string>
+using namespace std;
+
 int main() {
-    printf("Hello, World!\n");
+    string name;
+    
+    cout << "Hello, World!" << endl;
+    cout << "What's your name? ";
+    cin >> name;
+    cout << "Nice to meet you, " << name << "!" << endl;
+    
     return 0;
 }
